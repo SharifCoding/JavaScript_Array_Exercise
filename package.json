@@ -1,0 +1,14 @@
+{
+  "name": "javascript_array_exercise",
+  "version": "1.0.0",
+  "description": "JavaScript array - Exercises, Practice, Solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --bail"
+  },
+  "author": "SharifCoding",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.0"
+  }
+}
